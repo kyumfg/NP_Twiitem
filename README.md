@@ -2,4 +2,4 @@ NP_Twiitem
 =============
 
 NucleusCMS plugin.
-‹L–“Še‚ÉTwitter‚Ö‚à“Še
+è¨˜äº‹æŠ•ç¨¿æ™‚ã«Twitterã¸ã‚‚æŠ•ç¨¿
